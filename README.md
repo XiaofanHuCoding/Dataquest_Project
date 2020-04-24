@@ -1,13 +1,12 @@
 # Dataquest_Project
-Dataquest projects
 
-Project Directory:
+## Project Directory:
 1. App Store
 2. Hacker News
 3. Ebay Used Car Sale
 4. American Community Survey
 
-Project Details
+## Project Details
 1. App Store
 2. Hacker News
 3. Ebay Used Car Sale
