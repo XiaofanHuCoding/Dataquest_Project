@@ -55,4 +55,4 @@
 - This is a guided project from Data Engineer in Python path, step 2, Algorithm Complexity.
 - The goal of this project is to build fast queries on a csv. Thus, the owner of the database can quickly access the information he/she needs. After this project, the owner is able to do the following things faster:
   1) Access laptop information by type laptop ID.
-  2) Output all the laptop under a certain price (inclusive).
+  2) Output all the laptops under a certain price (inclusive).
