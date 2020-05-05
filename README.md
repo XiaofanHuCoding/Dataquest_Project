@@ -7,6 +7,7 @@
 4. American Community Survey - Mission 146
 5. Gender Gap in College Degree - Mission 149
 6. Employee Exit Surveys - Mission 348
+7. Laptop Prices - Mission 481
 
 ## Project Details
 ### 1. App Store
@@ -49,3 +50,9 @@
   - This is a guided project from Data Scientist in Python path, step 2, Data Cleaning and Analysis.
   - In this guided project, I'll work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia. The TAFE exit survey data can be found from Australia government website. (https://data.gov.au/)
   - Haven't started this project
+
+### 7. Laptop Prices
+- This is a guided project from Data Engineer in Python path, step 2, Algorithm Complexity.
+- The goal of this project is to build fast queries on a csv. Thus, the owner of the database can quickly access the information he/she needs. After this project, the owner is able to do the following things faster:
+  1) Access laptop information by type laptop ID.
+  2) Output all the laptop under a certain price (inclusive).
