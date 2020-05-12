@@ -8,6 +8,7 @@
 5. Gender Gap in College Degree - Mission 149
 6. Employee Exit Surveys - Mission 348
 7. Laptop Prices - Mission 481
+8. Analyzing NYC High School Data = Mission 217
 
 ## Project Details
 ### 1. App Store
@@ -56,3 +57,8 @@
 - The goal of this project is to build fast queries on a csv. Thus, the owner of the database can quickly access the information he/she needs. After this project, the owner is able to do the following things faster:
   1) Access laptop information by type laptop ID.
   2) Output all the laptops under a certain price (inclusive).
+
+### 8. Analyzing NYC High School Data
+- This is a guided project from Data Scientist in Python path, step 2, Data Cleaning Project Walkthrough.
+- The goal of this project is to learn to clean a dataset which is very complex.
+- Started the project, but haven't finished it.
